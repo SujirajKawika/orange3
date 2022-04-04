@@ -42,8 +42,8 @@ except ImportError:
 
 is_conda = os.path.exists(os.path.join(sys.prefix, 'conda-meta'))
 
-NAME = 'Orange3'
-
+# NAME = 'Orange3'
+NAME = 'Spider Analytics Services (SAS)'
 VERSION = '3.33.0'
 ISRELEASED = False
 # full version identifier including a git revision identifier for development
